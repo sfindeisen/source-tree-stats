@@ -1,5 +1,5 @@
 # source-tree-stats
-Source code tree statistics generator (number of lines etc.).
+Source code tree statistics generator.
 
 Following statistics are available:
 * number of files
